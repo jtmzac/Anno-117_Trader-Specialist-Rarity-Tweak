@@ -2,6 +2,11 @@
   "Anno": 8,
   "ModID": "trader-specialist-rarity-tweak-jtmzac",
   "Version": "1.0.0",
+  "Dependencies": {
+    "LoadAfter": [
+      "specialist-pools-rebalance-jtmzac"
+    ]
+  },
   "Difficulty": "easier",
   "Category": {
     "English": "Gameplay"
