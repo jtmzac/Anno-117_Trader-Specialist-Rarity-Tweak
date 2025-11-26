@@ -30,6 +30,6 @@ The values are changed with the Specialist Pools Rebalanced mod installed becaus
 | Legendary  | 10   |
 
 ## Customisation
-If you do not like the provided values then to change them please edit the appropriate sections in the mods assets.xml. I've added comments with explanations and section header to make this easier.
+If you do not like the provided values then to change then please edit the appropriate sections in the mods assets.xml. I've added comments with explanations and section header to make this easier.
 
 Please make sure you edit the correct section for with/without the Specialist Pools Rebalanced mod.
