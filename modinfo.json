@@ -1,0 +1,15 @@
+{
+  "Anno": 8,
+  "ModID": "trader-specialist-rarity-tweak-jtmzac",
+  "Version": "1.0.0",
+  "Difficulty": "easier",
+  "Category": {
+    "English": "Gameplay"
+  },
+  "ModName": {
+    "English": "Trader Specialist Rarity Tweak"
+  },
+  "Description": {
+    "English": "Changes the weighting of specialist rareties at the neutral traders"
+  }
+}

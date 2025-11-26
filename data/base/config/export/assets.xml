@@ -1,0 +1,97 @@
+<!-- Weights seem to be percentages and for each trader the order is always common, rare, epic, legendary -->
+<!-- The total should equal 100 and legendary isn't defined because it's whatever is left 
+after the other 3. e.g. common 20, rare 30, epic 40 would leave 10 left for legendary -->
+
+
+<ModOps>
+  <!-- Diana, Latium emperor representative  -->
+  <ModOp Type="remove" GUID="43018" Path="/Values/RewardPool/ItemsPool"/>
+  <ModOp Type="merge" GUID="43018" Path="/Values/RewardPool">
+    <ItemsPool>
+      <Item>
+        <ItemLink>83460</ItemLink>
+        <Weight>20</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83461</ItemLink>
+        <Weight>30</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83462</ItemLink>
+        <Weight>40</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83463</ItemLink>
+      </Item>
+    </ItemsPool>
+  </ModOp>
+
+  <!-- Valeria, Latium gambler/merchant -->
+  <ModOp Type="remove" GUID="43019" Path="/Values/RewardPool/ItemsPool"/>
+  <ModOp Type="merge" GUID="43019" Path="/Values/RewardPool">
+    <ItemsPool>
+      <Item>
+        <ItemLink>83464</ItemLink>
+        <Weight>20</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83465</ItemLink>
+        <Weight>40</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83466</ItemLink>
+        <Weight>30</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83467</ItemLink>
+      </Item>
+    </ItemsPool>
+  </ModOp>
+
+  <!-- Manx, Albion celtic trader-->
+  <ModOp Type="remove" GUID="43020" Path="/Values/RewardPool/ItemsPool"/>
+  <ModOp Type="merge" GUID="43020" Path="/Values/RewardPool">
+    <ItemsPool>
+      <Item>
+        <ItemLink>83476</ItemLink>
+        <Weight>20</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83477</ItemLink>
+        <Weight>30</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83478</ItemLink>
+        <Weight>40</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83479</ItemLink>
+      </Item>
+    </ItemsPool>
+  </ModOp>
+
+  <!-- Procurator, Albion Roman Commander-->
+  <ModOp Type="remove" GUID="43021" Path="/Values/RewardPool/ItemsPool"/>
+  <ModOp Type="merge" GUID="43021" Path="/Values/RewardPool">
+    <ItemsPool>
+      <Item>
+        <ItemLink>83472</ItemLink>
+        <Weight>20</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83473</ItemLink>
+        <Weight>40</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83474</ItemLink>
+        <Weight>30</Weight>
+      </Item>
+      <Item>
+        <ItemLink>83475</ItemLink>
+      </Item>
+    </ItemsPool>
+  </ModOp>
+
+</ModOps>
+
+
