@@ -1,5 +1,5 @@
 # Trader Specialist Rarity Tweak
-Changes the weighting of each rarity for the four neutral traders (Diana/Valeria/Manx/Procurator) in Anno 117
+Changes the weighting of each specialist rarity for the four neutral traders (Diana/Valeria/Manx/Procurator).
 
 Values are the same for each trader by default but different weightings are used if my Specialist Pools Rebalanced mod is installed.
 
