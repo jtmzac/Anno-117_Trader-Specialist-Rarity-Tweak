@@ -13,6 +13,7 @@ Values are the same for each trader by default but different weightings are used
 
 # New Percentage Values for Each Rarity with Specialist Pools Rebalance Mod:
 ## Diana and Manx (Land Civilian Specialists)
+| Rarity     | This Mod |
 | -------    | -------   |
 | Common     | 20   |
 | Rare       | 30   |
@@ -20,6 +21,7 @@ Values are the same for each trader by default but different weightings are used
 | Legendary  | 10    |
 
 ## Valeria and Procurator (Civilian Captains and All Military Land/Captains Respectively)
+| Rarity     | This Mod |
 | -------    | -------   |
 | Common     | 20   |
 | Rare       | 40   |
